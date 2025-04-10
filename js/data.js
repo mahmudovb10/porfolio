@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Perfume",
+    github: "https://github.com/mahmudovb10/Perfume",
+    vercel: "https://vercel.com/mahmudovb10s-projects/perfume-pucm",
+  },
+  {
     title: "Intro Section",
     github: "https://github.com/mahmudovb10/Intro-Section-Project",
     vercel: "https://vercel.com/mahmudovb10s-projects/intro-section-project",
