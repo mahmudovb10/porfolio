@@ -1,6 +1,6 @@
 export default [
   {
-    title: "Legendary Games",
+    title: "Perfume",
     github: "https://github.com/mahmudovb10/Perfume",
     vercel: "https://vercel.com/mahmudovb10s-projects/perfume-pucm",
   },
