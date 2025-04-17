@@ -1,4 +1,19 @@
 export default [
+        {
+    title: "Intro Section",
+    github: "intro-section-project-kappa.vercel.app",
+    vercel: "intro-section-project-86ab-mg50h7sjl-mahmudovb10s-projects.vercel.app",
+  },
+      {
+    title: "Contact",
+    github: "https://contact-theta-six.vercel.app/",
+    vercel: "contact-or777tlnw-mahmudovb10s-projects.vercel.app",
+  },
+    {
+    title: "Recipe",
+    github: "https://recipe-page-puce-pi.vercel.app/",
+    vercel: "recipe-page-r7sp1xem7-mahmudovb10s-projects.vercel.app",
+  },
   {
     title: "Perfume",
     github: "https://github.com/mahmudovb10/Perfume",
