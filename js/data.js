@@ -1,4 +1,9 @@
 export default [
+         {
+    title: "My Team",
+    github: "https://github.com/mahmudovb10/My-team-Project",
+    vercel: "https://vercel.com/mahmudovb10s-projects/my-team-project",
+  },
         {
     title: "Intro Section",
     github: "https://github.com/mahmudovb10/Intro-Section-Project",
