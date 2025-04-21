@@ -1,8 +1,8 @@
 export default [
          {
     title: "My Team",
-    github: "https://github.com/mahmudovb10/My-team-Project",
-    vercel: "https://vercel.com/mahmudovb10s-projects/my-team-project",
+    github: "https://github.com/mahmudovb10/My-Team-figma",
+    vercel: "https://vercel.com/mahmudovb10s-projects/my-team-figma-1gks",
   },
         {
     title: "Intro Section",
