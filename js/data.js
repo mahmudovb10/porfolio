@@ -1,4 +1,9 @@
 export default [
+                  {
+    title: "My Team Finished",
+    github: "https://github.com/mahmudovb10/My-Team-Finished",
+    vercel: "https://vercel.com/mahmudovb10s-projects/my-team-finished",
+  },
          {
     title: "My Team",
     github: "https://github.com/mahmudovb10/My-Team-figma",
