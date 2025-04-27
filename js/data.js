@@ -1,4 +1,9 @@
 export default [
+                    {
+    title: "Animation",
+    github: "https://github.com/mahmudovb10/Animation",
+    vercel: "https://vercel.com/mahmudovb10s-projects/animation",
+  },
                   {
     title: "Coffee Roaster",
     github: "https://github.com/mahmudovb10/coferoaster",
