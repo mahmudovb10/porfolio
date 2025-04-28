@@ -6,8 +6,8 @@ export default [
   },
                   {
     title: "Coffee Roaster",
-    github: "coffee-roasters-theta.vercel.app",
-    vercel: "coffee-roasters-theta.vercel.app",
+    github: "https://github.com/mahmudovb10/coffee-roasters",
+    vercel: "https://vercel.com/mahmudovb10s-projects/coffee-roasters",
   },
                   {
     title: "My Team Finished",
