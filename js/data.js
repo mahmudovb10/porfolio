@@ -1,4 +1,9 @@
 export default [
+                      {
+    title: "Single Page",
+    github: "https://single-page-indol.vercel.app/",
+    vercel: "https://single-page-indol.vercel.app/",
+  },
                     {
     title: "Animation",
     github: "https://github.com/mahmudovb10/Animation",
