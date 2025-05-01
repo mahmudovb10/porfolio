@@ -1,4 +1,9 @@
 export default [
+                        {
+    title: "Namanganliklar 24",
+    github: "https://scss-templete-opal.vercel.app/",
+    vercel: "https://vercel.com/mahmudovb10s-projects/scss-templete",
+  },
                       {
     title: "Single Page",
     github: "https://single-page-indol.vercel.app/",
