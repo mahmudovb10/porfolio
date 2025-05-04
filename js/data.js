@@ -6,7 +6,7 @@ export default [
   },
                           {
     title: "Testemonials Grid",
-    github: "grid-card-khaki.vercel.app",
+    github: "https://grid-card-khaki.vercel.app/",
     vercel: "https://grid-card-khaki.vercel.app/",
   },
                         {
