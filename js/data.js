@@ -1,4 +1,9 @@
 export default [
+                          {
+    title: "Testemonials Grid",
+    github: "grid-card-khaki.vercel.app",
+    vercel: "https://grid-card-khaki.vercel.app/",
+  },
                         {
     title: "Namanganliklar 24",
     github: "https://scss-templete-opal.vercel.app/",
