@@ -1,4 +1,9 @@
 export default [
+                            {
+    title: "Bento Grid (Incomplete)",
+    github: "https://grid-bento.vercel.app/",
+    vercel: "https://grid-bento.vercel.app/",
+  },
                           {
     title: "Testemonials Grid",
     github: "grid-card-khaki.vercel.app",
