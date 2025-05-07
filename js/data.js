@@ -1,4 +1,9 @@
 export default [
+                              {
+    title: "Tech Book",
+    github: "https://github.com/mahmudovb10/tech-books",
+    vercel: "https://vercel.com/mahmudovb10s-projects/tech-books",
+  },
                             {
     title: "Bento Grid (Incomplete)",
     github: "https://grid-bento.vercel.app/",
