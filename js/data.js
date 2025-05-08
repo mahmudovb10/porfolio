@@ -1,4 +1,9 @@
 export default [
+                                {
+    title: "Single Page (Responsive Added)",
+    github: "https://github.com/mahmudovb10/single-pagee",
+    vercel: "https://vercel.com/mahmudovb10s-projects/single-pagee",
+  },
                               {
     title: "Tech Book",
     github: "https://github.com/mahmudovb10/tech-books",
