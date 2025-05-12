@@ -1,4 +1,9 @@
 export default [
+                                    {
+    title: "News Homepage",
+    github: "https://github.com/mahmudovb10/News-Homepage",
+    vercel: "https://news-homepage-iota-silk.vercel.app/",
+  },
                                       {
     title: "Intro Component",
     github: "https://github.com/mahmudovb10/Intro-Component",
