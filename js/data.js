@@ -1,6 +1,6 @@
 export default [
                                   {
-    title: "Single Page (Responsive Added)",
+    title: "Product Preview",
     github: "https://github.com/mahmudovb10/Product-Preview",
     vercel: "https://product-preview-three-beta.vercel.app/",
   },
