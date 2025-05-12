@@ -1,4 +1,9 @@
 export default [
+                                      {
+    title: "News Homepage",
+    github: "https://github.com/mahmudovb10/John",
+    vercel: "https://john-eimq.vercel.app/",
+  },
                                     {
     title: "News Homepage",
     github: "https://github.com/mahmudovb10/News-Homepage",
