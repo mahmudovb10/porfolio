@@ -1,4 +1,9 @@
 export default [
+                                        {
+    title: "John",
+    github: "https://github.com/mahmudovb10/John",
+    vercel: "https://john-1w6c.vercel.app/",
+  },
                                       {
     title: "News Homepage",
     github: "https://github.com/mahmudovb10/John",
