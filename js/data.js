@@ -1,4 +1,9 @@
 export default [
+                                          {
+    title: "Sunny Side (Imtihon-2)",
+    github: "https://github.com/mahmudovb10/imtihon-2",
+    vercel: "https://imtihon-2-tau.vercel.app/",
+  },
                                         {
     title: "insure (Imtihon-1)",
     github: "https://github.com/mahmudovb10/imtihon-1",
