@@ -1,5 +1,10 @@
 export default [
                                         {
+    title: "insure (Imtihon-1)",
+    github: "https://github.com/mahmudovb10/imtihon-1",
+    vercel: "https://imtihon-1-six.vercel.app/",
+  },
+                                        {
     title: "John",
     github: "https://github.com/mahmudovb10/John",
     vercel: "https://john-1w6c.vercel.app/",
