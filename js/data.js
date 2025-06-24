@@ -2,7 +2,7 @@ export default [
   {
     title: "Music Player",
     github: "https://github.com/mahmudovb10/Music-Player",
-    vercel: "music-player-wine-theta.vercel.app",
+    vercel: "https://music-player-wine-theta.vercel.app/",
   },
   {
     title: "Sunny Side (Imtihon-2)",
