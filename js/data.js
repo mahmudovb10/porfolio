@@ -1,5 +1,10 @@
 export default [
   {
+    title: "Input Card",
+    github: "https://github.com/mahmudovb10/Input-Card",
+    vercel: "https://input-card-rho.vercel.app/",
+  },
+  {
     title: "Music Player",
     github: "https://github.com/mahmudovb10/Music-Player",
     vercel: "https://music-player-wine-theta.vercel.app/",
