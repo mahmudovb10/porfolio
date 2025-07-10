@@ -1,8 +1,8 @@
 export default [
   {
     title: "Online Store",
-    github: "https://github.com/mahmudovb10/Online-Store",
-    vercel: "https://online-store-beta-three.vercel.app/",
+    github: "https://github.com/mahmudovb10/OnlineStory",
+    vercel: "https://online-story.vercel.app/",
   },
   {
     title: "Input Card",
