@@ -1,4 +1,9 @@
 export default [
+ {
+    title: "Product API",
+    github: "https://github.com/mahmudovb10/product-Store",
+    vercel: "https://product-store-coral.vercel.app/",
+  },
   {
     title: "Online Store",
     github: "https://github.com/mahmudovb10/OnlineStory",
